@@ -1,5 +1,5 @@
 ### The Go Programming Language
-
-Reread gopl 
-For example only 
+<hr>
+Reread gopl <br>
+For example only <br>
 May have notes
